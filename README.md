@@ -4,4 +4,6 @@ I've made countless scrapers of varying complexity in order to extract informati
 
 This is an example of one of the more basic ones that still functions as intended.
 
-NOTE: If you are experiencing browser-realted errors, try switching to Chrome or Firefox.
+When asked for the specific URL, enter: https://www.yellowgreenred.com/?m=202411.
+
+Also, if you are experiencing browser-realted errors, try switching to Chrome or Firefox.
